@@ -38,10 +38,4 @@
 
 ## 📊 GitHub Stats  
 
-![Mkhululi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dama-Mkhululi&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dama-Mkhululi&layout=compact&theme=radical)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dama-Mkhululi&color=blue)  
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mkhululi-Dama&theme=default&show_icons=true&hide_border=true&count_private=true)
