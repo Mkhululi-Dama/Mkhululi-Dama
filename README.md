@@ -19,7 +19,7 @@
 
 ## 🔗 Connect with me  
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)  
+[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mkhululi.dama@capaciti.org.za)[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)  
 
 ---
 
