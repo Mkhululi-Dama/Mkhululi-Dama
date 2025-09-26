@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mkhululi Dama  
 
-<img align="right" alt="Coding" width="600" src="https://th.bing.com/th/id/R.967184945c40651bdb09b217c3229aa8?rik=Pfq3JlvXehKyTQ&pid=ImgRaw&r=0.png">
+<img align="right" alt="Coding" width="500" height="350" src="https://th.bing.com/th/id/R.967184945c40651bdb09b217c3229aa8?rik=Pfq3JlvXehKyTQ&pid=ImgRaw&r=0.png">
 
 💡 **Passionate Data Analyst | Coding Enthusiast**  
 📊 I specialize in turning raw numbers into meaningful insights using:  
@@ -39,3 +39,4 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mkhululi-Dama&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=Mkhululi-Dama&theme=default&hide_border=true)
